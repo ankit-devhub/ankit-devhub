@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Expressjs, MySQL, MongoDB**
+- 🌱 I’m currently learning **Next.js, Prisma ORM, Typescript, Nest.js**
 
 - 💬 Ask me about **React, Node, Express,MongoDB**
 

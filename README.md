@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Prisma ORM, Typescript, Nest.js**
+- 🌱 I’m currently learning **CDN, Cloud Computing**
 
-- 💬 Ask me about **React, Node, Express,MongoDB**
+- 💬 Ask me about **React, Node, Express,MongoDB,Next.js, Prisma ORM, Typescript, Nest.js**
 
 - 📫 How to reach me **ankit999221@gmail.com**
 
